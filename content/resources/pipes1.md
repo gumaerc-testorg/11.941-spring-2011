@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
+parent_uid: 3745d60e-fb70-ad25-33db-e9367e37025c
 resourcetype: Image
 title: A network of pipes criss-cross the outside of a building
 uid: 0cd686ae-7110-8533-8ada-275da59528e5
