@@ -1,10 +1,12 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Image Gallery
 uid: 3745d60e-fb70-ad25-33db-e9367e37025c
 ---
 
-{{< image-gallery id="3745d60e-fb70-ad25-33db-e9367e37025c_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/11-941-urban-climate-adaptation-spring-2011/" >}}
+{{< image-gallery id="3745d60e-fb70-ad25-33db-e9367e37025c_nanogallery2" baseUrl="/courses/11-941-urban-climate-adaptation-spring-2011/" >}}
 {{< image-gallery-item href="0cd686ae711085338ada275da59528e5_pipes1.jpg" data-ngdesc="Informal water connections: vulnerability and resiliency. MIT Student" text="Informal water connections: vulnerability and resiliency." >}}
 {{< image-gallery-item href="86eb84d2ed48def2e0f9d0958eb9eec3_pipes2.jpg" data-ngdesc="Informal water connections: vulnerability and resiliency. MIT Student" text="Informal water connections: vulnerability and resiliency." >}}
 {{< image-gallery-item href="792aff3cb91c0497501c65b69c9fe1a9_village.jpg" data-ngdesc="A floating town in Belen Peru that is built on the flood plain. All homes are built on rafts and float during the wet season. MIT Student" text="A floating town in Belen Peru that is built on the flood plain. All homes are built on rafts and float during the wet season." >}}
