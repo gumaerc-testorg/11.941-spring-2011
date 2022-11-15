@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the requirements of the seminar,
+  including class participation and leadership, a term paper, and reflection exercises.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
