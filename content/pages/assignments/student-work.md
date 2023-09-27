@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides examples of student work for an assignment to find
+  or create two images; one reflecting urban vulnerability, the other urban resilience.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -10,7 +12,7 @@ title: Student Work
 uid: d6af5011-971e-f3da-2fc7-de5fdd32f9d9
 ---
 
-For the [Photo Exercise I: Imagining a Resilient City assignment]({{< baseurl >}}/pages/assignments), students found or created two images; one reflecting urban vulnerability, the other urban resilience.
+For the {{% resource_link 700203c6-c065-4cce-dc02-e7dcba50ead0 "Photo Exercise I: Imagining a Resilient City assignment" %}}, students found or created two images; one reflecting urban vulnerability, the other urban resilience.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -53,7 +55,7 @@ MIT's campus near Charles River floodplain
 {{< tdopen >}}
 
 
-[Floating town in Belen, Peru]({{< baseurl >}}/resources/village) (Image courtesy of an MIT student. Used with permission.)
+{{% resource_link 792aff3c-b91c-0497-501c-65b69c9fe1a9 "Floating town in Belen, Peru" %}} (Image courtesy of an MIT student. Used with permission.)
 
 
 {{< tdclose >}}
@@ -63,14 +65,14 @@ MIT's campus near Charles River floodplain
 {{< tdopen >}}
 
 
-[Drought in Qinghai Province, western China]({{< baseurl >}}/resources/valley)
+{{% resource_link a52407e5-80e0-f543-e5cd-e50521186406 "Drought in Qinghai Province, western China" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Community garden in Philadelphia]({{< baseurl >}}/resources/garden)
+{{% resource_link 646a8f86-9b6d-b313-5654-00b742231095 "Community garden in Philadelphia" %}}
 
 
 {{< tdclose >}}
@@ -107,14 +109,14 @@ The following two pictures represent both urban vulnerability and urban resilien
 {{< tdopen >}}
 
 
-[Pipes around building #1]({{< baseurl >}}/resources/pipes1)
+{{% resource_link 0cd686ae-7110-8533-8ada-275da59528e5 "Pipes around building #1" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Pipes around building #2]({{< baseurl >}}/resources/pipes2)
+{{% resource_link 86eb84d2-ed48-def2-e0f9-d0958eb9eec3 "Pipes around building #2" %}}
 
 
 {{< tdclose >}}

@@ -1,11 +1,12 @@
 ---
 content_type: page
+description: Photographs taken by students in the course.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Image Gallery
 uid: 3745d60e-fb70-ad25-33db-e9367e37025c
 ---
-
 {{< image-gallery id="3745d60e-fb70-ad25-33db-e9367e37025c_nanogallery2" baseUrl="/courses/11-941-urban-climate-adaptation-spring-2011/" >}}
 {{< image-gallery-item href="0cd686ae711085338ada275da59528e5_pipes1.jpg" data-ngdesc="Informal water connections: vulnerability and resiliency. MIT Student" text="Informal water connections: vulnerability and resiliency." >}}
 {{< image-gallery-item href="86eb84d2ed48def2e0f9d0958eb9eec3_pipes2.jpg" data-ngdesc="Informal water connections: vulnerability and resiliency. MIT Student" text="Informal water connections: vulnerability and resiliency." >}}
