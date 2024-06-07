@@ -4,6 +4,7 @@ description: The city of Xining in Qinghai Province, western China is an example
   urban vulnerability, a city on the great Yellow River, which now faces long-term
   drought and severe over-withdrawal. MIT student.
 file: /courses/11-941-urban-climate-adaptation-spring-2011/a52407e580e0f543e5cde50521186406_valley.jpg
+file_size: 91992
 file_type: image/jpeg
 image_metadata:
   caption: The city of Xining in Qinghai Province, western China is an example of

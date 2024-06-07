@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Informal water connections: vulnerability and resiliency. MIT Student'
 file: /courses/11-941-urban-climate-adaptation-spring-2011/86eb84d2ed48def2e0f9d0958eb9eec3_pipes2.jpg
+file_size: 62305
 file_type: image/jpeg
 image_metadata:
   caption: 'Informal water connections: vulnerability and resiliency.'
