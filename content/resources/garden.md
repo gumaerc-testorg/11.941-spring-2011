@@ -5,6 +5,7 @@ description: The Aspen Farms Community Garden in West Philadelphia, PA is an exa
   a difficult environment of flooding and landfill subsidence amid poverty and crime.
   MIT student.
 file: /courses/11-941-urban-climate-adaptation-spring-2011/646a8f869b6db313565400b742231095_garden.jpg
+file_size: 88370
 file_type: image/jpeg
 image_metadata:
   caption: The Aspen Farms Community Garden in West Philadelphia, PA is an example
