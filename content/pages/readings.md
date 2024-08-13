@@ -53,7 +53,7 @@ Vulnerability, ddaptation, and adaptive capacity
 
 Pelling, Mark. *Adaptation to Climate Change: From Resilience to Transformation*. T & F Books UK, 2011, pp. 53–104. 9780415477512.
 
-Nelson, Donald R., W. Neil Adger, et al. "Adaptation to Environmental Change: Contributions of a Resilience Framework." *Annual Review of Environment and Resources* 32 (2007): 395–419. ([PDF](http://eprints.icrisat.ac.in/4245/1/AnnualReviewofEnvResources_32_395-419_2007.pdf))
+Nelson, Donald R., W. Neil Adger, et al. ["Adaptation to Environmental Change: Contributions of a Resilience Framework."](https://www.annualreviews.org/content/journals/10.1146/annurev.energy.32.051807.090348) *Annual Review of Environment and Resources* 32 (2007): 395–419.
 
 "[Maladaption](http://dx.doi.org/10.1016/j.gloenvcha.2009.11.004)." *Global Environmental Change* 20 (2010): 211–3.
 
@@ -323,7 +323,7 @@ Ciplet, David, Achala Chandani, J. Timmons Roberts, Saleemul Huq. "Fast-Start Ad
 
 Ayers, Jessica. "International Funding to Support Urban Adaptation to Climate Change." *Environment and Development* 21, no. 1 (2009): 225–40. ([PDF](https://journals.sagepub.com/doi/pdf/10.1177/0956247809103021))
 
-Hammill, Anne, Richard Matthew, et al. "Microfinance and Climate Change Adaptation." *IDS Bulletin* 39, no. 4 (2008): 113–22. ([PDF](https://www.iisd.org/publications/microfinance-and-climate-change-adaptation#:~:text=Microfinance%20services%20(MFS)%20are%20recognized,the%20vulnerability%20of%20the%20poor.&text=These%20limitations%20and%20risks%20aside,match%20client%20needs%20and%20livelihoods.))
+Hammill, Anne, Richard Matthew, et al. "Microfinance and Climate Change Adaptation." *IDS Bulletin* 39, no. 4 (2008): 113–22. ([PDF](https://www.iisd.org/publications/microfinance-and-climate-change-adaptation#:~:text=Microfinance%20services%20%28MFS%29%20are%20recognized,the%20vulnerability%20of%20the%20poor.&text=These%20limitations%20and%20risks%20aside,match%20client%20needs%20and%20livelihoods.))
 
 ### Read as Interested
 
