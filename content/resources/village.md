@@ -2,7 +2,7 @@
 content_type: resource
 description: A floating town in Belen Peru that is built on the flood plain. All homes
   are built on rafts and float during the wet season. MIT Student
-file: /courses/11-941-urban-climate-adaptation-spring-2011/792aff3cb91c0497501c65b69c9fe1a9_village.jpg
+file: /ol-ocw-studio-app/courses/11-941-urban-climate-adaptation-spring-2011/792aff3cb91c0497501c65b69c9fe1a9_village.jpg
 file_size: 62566
 file_type: image/jpeg
 image_metadata:
