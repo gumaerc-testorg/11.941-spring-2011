@@ -4,7 +4,7 @@ description: The Aspen Farms Community Garden in West Philadelphia, PA is an exa
   of urban resiliency, the organizational and productive energy of people living in
   a difficult environment of flooding and landfill subsidence amid poverty and crime.
   MIT student.
-file: /courses/11-941-urban-climate-adaptation-spring-2011/646a8f869b6db313565400b742231095_garden.jpg
+file: /ol-ocw-studio-app/courses/11-941-urban-climate-adaptation-spring-2011/646a8f869b6db313565400b742231095_garden.jpg
 file_size: 88370
 file_type: image/jpeg
 image_metadata:
